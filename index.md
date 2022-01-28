@@ -1,6 +1,7 @@
 ## Uniform Linear Antenna Array Experiment based on Phase Locked Loops
 
 ![Image](https://github.com/adrian-mckernan/adrian-mckernan.github.io/images/PLL_Block_diagram.png)
+![Image](images/PLL_Block_diagram.png)
 
 This website links to the repositories needed to recreate the hardware and software used in the the paper. 
 
@@ -16,6 +17,10 @@ The repositories for each component are
 - [Software](https://github.com/adrian-mckernan/Software)
 - [Analysis](https://github.com/adrian-mckernan/Analysis)
 
+
+- [Hardware](Hardware)
+- [Software](Software)
+- [Analysis](Analysis)
 
 For academic referencing please use
 
