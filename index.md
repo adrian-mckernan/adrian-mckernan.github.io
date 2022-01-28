@@ -18,9 +18,9 @@ The repositories for each component are
 - [Analysis](https://github.com/adrian-mckernan/Analysis)
 
 
-- [Hardware](Hardware)
-- [Software](Software)
-- [Analysis](Analysis)
+- [Hardware page](./Hardware.html)
+- [Software page](./Software.html)
+- [Analysis page](./Analysis.html)
 
 For academic referencing please use
 
