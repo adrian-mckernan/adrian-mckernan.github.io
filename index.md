@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Uniform Linear Antenna Array Experiment based on Phase Locked Loops
 
-You can use the [editor on GitHub](https://github.com/adrian-mckernan/adrian-mckernan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](src)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This webiste links to the repsositories needed to recreate the hartdware and software used in the the paper. 
 
-### Markdown
+The aim of this project is to create a test bed for understanding phased arrays. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The main hardware used is the LTC6946-4 PLL chip. 
 
-```markdown
-Syntax highlighted code block
+The main PCB is an array of 5 LTC6946 chips with a common 10Mhz reference input. Each PLL is controlled by a dedicated microcontroller whcih communicated with a custom desktop application.
 
-# Header 1
-## Header 2
-### Header 3
+The repositorie for each compeontnt are 
 
-- Bulleted
-- List
+- [Hardware]()
+- [Software]()
+- [Analysis]()
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+For academic referenceing please use
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adrian-mckernan/adrian-mckernan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Uniform Linear Antenna Array Experiment based on Phase Locked Loops, Anil Chepala, Vincent Fusco, Umair Naeem and Adrian McKernan, 2022 
