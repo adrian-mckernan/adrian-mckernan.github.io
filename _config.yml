@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+title: PLL based ULA
 logo: /images/ULA-2-hardware.jpg
 description: PLL based ULA
-show_downloads: true
+show_downloads: false
