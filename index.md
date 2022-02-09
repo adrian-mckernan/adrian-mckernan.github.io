@@ -9,7 +9,10 @@ The aim of this project is to create a test bed for understanding phased arrays.
 
 The main hardware used is the LTC6946-4 PLL chip. 
 
-The main PCB is an array of 5 LTC6946 chips with a common 10Mhz reference input. Each PLL is controlled by a dedicated microcontroller whcih communicated with a custom desktop application.
+The main PCB is an array of 5 LTC6946 chips with a common 10MHz reference input. Each PLL is controlled by a dedicated microcontroller which communicated with a custom desktop application.
+
+
+
 
 The repositories for each component are 
 

@@ -7,7 +7,7 @@ The basic two element array with a omni-directional element is synthesised using
 
 https://github.com/adrian-mckernan/Array/blob/main/Dual_element_isotropic.m
 
-- [Array page](./array/eq.html)
+- [Array page](./eq.html)
 
 Repository
 [Matlab Files](https://github.com/adrian-mckernan/array)

@@ -1,11 +1,10 @@
 ## Hardware
 
-![PLL block diagram](images/PLL_Block_diagram.png)
+![PLL block diagram](../images/Power_Board.png)
 
-Each PCB contains 5 LTC6946 PLLS. Each PLL shares the same 10MHz source.
+Each PLL board accepts two power inputs a 4V and 6V. the 4V bus has local regulation to 3.3V for each microcontroller and PLL section. The ^v bus is used to directly power the Hex inverter reference buffer before being locally regulated to 5V for the PLL.
 
-In order to be able to adjust the output phase of each PLL the square wave 10MHz reference is put through a low pass filter with a Varactor. By changing the voluatge on the varactor the rise time of the square wave is adjusted moving the point at which the PLL locks on to the reference. This voltage is output form a DAC on the STM32F051 micrcontroller
 
-A pdf of the schematic for the main board can be found [Hardware]() 
+A pdf of the schematic for the Power board can be found [Hardware]() 
 
 [back](./)

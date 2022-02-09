@@ -1,11 +1,9 @@
 ## Hardware
 
-![PLL block diagram](images/PLL_Block_diagram.png)
+![Reference distribution PCB](../images/clock_dist.png)
 
-Each PCB contains 5 LTC6946 PLLS. Each PLL shares the same 10MHz source.
+When multiple PLL boards are stacked the 10Mhz reference needs to be buffered before each board. The same Hex inverter (74HC04) chip as used on the main PLLs boards is used. 
 
-In order to be able to adjust the output phase of each PLL the square wave 10MHz reference is put through a low pass filter with a Varactor. By changing the voluatge on the varactor the rise time of the square wave is adjusted moving the point at which the PLL locks on to the reference. This voltage is output form a DAC on the STM32F051 micrcontroller
-
-A pdf of the schematic for the main board can be found [Hardware]() 
+A pdf of the schematic for the 10MHz reference distribution bboard can be found at  [Clock distribution schematic]() 
 
 [back](./)
