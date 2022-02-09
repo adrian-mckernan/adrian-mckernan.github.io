@@ -1,6 +1,6 @@
 ## Array
 
-This project contains the MATLAB files used to design out linear array and calculated phase offsets and radiation patterns
+Hello world
 
 
 The basic two element array with a omni-directional element is synthesised using eq(10)
