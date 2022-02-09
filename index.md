@@ -15,12 +15,12 @@ The repositories for each component are
 
 - [Hardware](https://github.com/adrian-mckernan/Hardware)
 - [Software](https://github.com/adrian-mckernan/Software)
-- [Analysis](https://github.com/adrian-mckernan/Analysis)
+- [Array](https://github.com/adrian-mckernan/Analysis)
 
 
-- [Hardware page](./Hardware.html)
-- [Software page](./Software.html)
-- [Analysis page](./Analysis.html)
+- [Hardware page](./hardware/Hardware.html)
+- [Software page](./software/Software.html)
+- [Array page](./array/Array.html)
 
 For academic referencing please use
 
