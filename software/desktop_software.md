@@ -17,4 +17,6 @@ pressing mute will automatically end a packet to the PLL to mute the output.
 
 A finer control over induvial register setting with in the PLL is available in the register tab.
 
-After setting a single register these setting can be copied to other PLLs. Once you have configured your registers in the software these values have to be sent to the PLL by programming them from the general tab.
+After setting a single register these setting can be copied to other PLLs. Once you have configured your registers in the software these values have to be sent to the PLL by programming them from the general tab.#
+
+[Desktop software Repository](https://github.com/adrian-mckernan/Software/tree/main/LTC6946)

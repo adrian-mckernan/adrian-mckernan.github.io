@@ -5,6 +5,6 @@
 There are two software projects
 
 - [C# Desktop Application](desktop_software.html)
-- [STM32F051 firmware]()
+- [STM32F051 firmware](embedded_software.hrml)
 
 [back](../)
