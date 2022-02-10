@@ -4,7 +4,7 @@
 
 Each PCB contains 5 LTC6946 PLLS. Each PLL shares the same 10MHz source.
 
-In order to be able to adjust the output phase of each PLL the square wave 10MHz reference is put through a low pass filter with a Varactor. By changing the voltage on the varactor the rise time of the square wave is adjusted moving the point at which the PLL locks on to the reference. This voltage is output form a DAC on the STM32F051 microcontroller
+In order to be able to adjust the output phase of each PLL the square wave 10MHz reference is put through a low pass filter with a varactor. By changing the voltage on the varactor the rise time of the square wave is adjusted moving the point at which the PLL locks on to the reference. This voltage is output from a DAC on the STM32F051 microcontroller
 
 
 
@@ -26,6 +26,12 @@ In order to be able to adjust the output phase of each PLL the square wave 10MHz
 ![PLL block diagram](../images/PLL_Photo_05.jpg)
 
 
-A pdf of the schematic for the main board can be found [here](https://github.com/adrian-mckernan/Hardware/blob/main/PLL_v2/sch/PLL_v2.pdf) 
+The PCB was designed in KiCAD and is available [here](https://github.com/adrian-mckernan/Hardware/blob/main/PLL_v2/).
 
-[back](./)
+A pdf of the schematic for the main board can be found [here](https://github.com/adrian-mckernan/Hardware/blob/main/PLL_v2/sch/PLL_v2.pdf) .
+
+- [PLL Board](PLL_board.html) 
+- [RS-485 Boards](RS485_board.html)
+- [Reference Board](Reference_board.html)
+- [Power Board](Power_board.html)
+[back](../)

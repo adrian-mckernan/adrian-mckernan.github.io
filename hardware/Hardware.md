@@ -9,9 +9,9 @@ The main PLL board is made of 5 PLL all driven form the same reference
 
 The boards are controlled from a custom windows application and communications between the PC and PLLS is done over RS-485. For this there are two PCBs, one connects a  RS-485 transceiver to a sparkfun USB to serial breakout board and another connects a RJ-45 to the PLL board
 
-PLL boards have been designed to be stacked on top of each other. To aid in providing a single reference interface there is a reference distribution board
+The PLL boards have been designed to be stacked on top of each other. To aid in providing a single reference interface there is a reference distribution board
 
-finally to provide a stable power source to the stacked PLLs a power distribution board has been made. 
+Finally to provide a stable power source to the stacked PLLs a power distribution board has been made. 
 
 
 - [PLL Board](PLL_board.html) 
@@ -20,14 +20,10 @@ finally to provide a stable power source to the stacked PLLs a power distributio
 - [Power Board](Power_board.html)
 
 
-[Photo of assembled PLL array](../images/PLL_Photo_04.jpg)
+![Photo of assembled PLL array](../images/PLL_Photo_04.jpg)
 
 
 
-- [Hardware page](/hardware/Hardware.html)
-- [Software page](/software/Software.html)
-- [Array page](/array/Array.html)
 
 
-
-[back](./)
+[back](../)
