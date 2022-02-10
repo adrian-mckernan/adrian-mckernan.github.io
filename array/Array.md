@@ -1,8 +1,5 @@
 ## Array
 
-Hello world
-
-
 The basic two element array with a omni-directional element is synthesised using eq(10)
 
 ![Synthesis equation](../images/Eq10.png)
@@ -15,7 +12,7 @@ A 5 element array of omnidirectional antennas can me simulated using [m-file](ht
 
 ![Five element Dipole Array](../images/5_element_theory.png)
 
-
+A function is provided which can be used to calculate the progressive phase for an n-element dip[ole array] [m-file](https://github.com/adrian-mckernan/Array/blob/main/plot_n_element_dipole_array.m) 
 
 Repository
 [Matlab Files](https://github.com/adrian-mckernan/array)
