@@ -5,6 +5,6 @@
 Each PLL board accepts two power inputs a 4V and 6V. the 4V bus has local regulation to 3.3V for each microcontroller and PLL section. The ^v bus is used to directly power the Hex inverter reference buffer before being locally regulated to 5V for the PLL.
 
 
-A pdf of the schematic for the Power board can be found [Hardware]() 
+A pdf of the schematic for the Power board can be found [Hardware](https://github.com/adrian-mckernan/Hardware/blob/main/Power%20Board%20V2/sch/Power%20Board.pdf) 
 
 [back](./)
