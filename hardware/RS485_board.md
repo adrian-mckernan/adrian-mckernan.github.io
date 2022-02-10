@@ -22,8 +22,9 @@ The PCB was designed in KiCAD and is available [here](https://github.com/adrian-
 
 A pdf of the schematic for the RS-485 to FTDI board can be found [here](https://github.com/adrian-mckernan/Hardware/blob/main/RJ_45_RS-485_LTC946_PLL/sch/RJ_45_RS-485_breakout.pdf) 
 
+- [Hardware page](Hardware.html)
 - [PLL Board](PLL_board.html) 
-- [RS-485 Boards](RS485_board.html)
 - [Reference Board](Reference_board.html)
 - [Power Board](Power_board.html)
+
 [back](../)

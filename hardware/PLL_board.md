@@ -30,8 +30,9 @@ The PCB was designed in KiCAD and is available [here](https://github.com/adrian-
 
 A pdf of the schematic for the main board can be found [here](https://github.com/adrian-mckernan/Hardware/blob/main/PLL_v2/sch/PLL_v2.pdf) .
 
-- [PLL Board](PLL_board.html) 
+- [Hardware page](Hardware.html)
 - [RS-485 Boards](RS485_board.html)
 - [Reference Board](Reference_board.html)
 - [Power Board](Power_board.html)
+
 [back](../)

@@ -12,13 +12,11 @@ The main hardware used is the LTC6946-4 PLL chip.
 The main PCB is an array of 5 LTC6946 chips with a common 10MHz reference input. Each PLL is controlled by a dedicated microcontroller which communicated with a custom desktop application.
 
 
-
-
 The repositories for each component are 
 
-- [Hardware](https://github.com/adrian-mckernan/Hardware)
-- [Software](https://github.com/adrian-mckernan/Software)
-- [Array](https://github.com/adrian-mckernan/Analysis)
+- [Hardware Repo](https://github.com/adrian-mckernan/Hardware)
+- [Software Repo](https://github.com/adrian-mckernan/Software)
+- [Array Repo](https://github.com/adrian-mckernan/Analysis)
 
 
 - [Hardware page](./hardware/Hardware.html)

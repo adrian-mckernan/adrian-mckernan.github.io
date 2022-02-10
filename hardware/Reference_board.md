@@ -10,9 +10,9 @@ The PCB was designed in KiCAD and is available [here](https://github.com/adrian-
 A pdf of the schematic for the 10MHz reference distribution bboard can be found [here](https://github.com/adrian-mckernan/Hardware/blob/main/clock_dist_v4/sch/clock_dist.pdf) 
 
 
-
+- [Hardware page](Hardware.html)
 - [PLL Board](PLL_board.html) 
 - [RS-485 Boards](RS485_board.html)
-- [Reference Board](Reference_board.html)
 - [Power Board](Power_board.html)
+
 [back](../)

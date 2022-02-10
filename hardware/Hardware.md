@@ -23,7 +23,4 @@ Finally to provide a stable power source to the stacked PLLs a power distributio
 ![Photo of assembled PLL array](../images/PLL_Photo_04.jpg)
 
 
-
-
-
 [back](../)
