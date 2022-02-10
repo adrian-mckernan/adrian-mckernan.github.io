@@ -17,6 +17,6 @@ For the PLL side the rRS-485 signals run in a bus along the reference input side
 [PLL to  RS-485 board](../images/RJ_45_RS-485_breakout.png
 
 
-A pdf of the schematic for the RS-485 to FTDI board can be found [Hardware](https://github.com/adrian-mckernan/Hardware/blob/main/RS-485_FTDI/sch/RS-485_FTDI.pdf) 
+A pdf of the schematic for the RS-485 to FTDI board can be found [here](https://github.com/adrian-mckernan/Hardware/blob/main/RS-485_FTDI/sch/RS-485_FTDI.pdf) 
 
 [back](./)

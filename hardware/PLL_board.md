@@ -26,6 +26,6 @@ In order to be able to adjust the output phase of each PLL the square wave 10MHz
 ![PLL block diagram](../images/PLL_Photo_05.jpg)
 
 
-A pdf of the schematic for the main board can be found [Hardware](https://github.com/adrian-mckernan/Hardware/blob/main/PLL_v2/sch/PLL_v2.pdf) 
+A pdf of the schematic for the main board can be found [here](https://github.com/adrian-mckernan/Hardware/blob/main/PLL_v2/sch/PLL_v2.pdf) 
 
 [back](./)
